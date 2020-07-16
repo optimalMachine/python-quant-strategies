@@ -1,2 +1,2 @@
-# python-quant-strategies
-This repository is a collection of Python quant strategy.
+# python Quant Strategies
+This repository is a collection of quant strategies written in mostly in Python.
